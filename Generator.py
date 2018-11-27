@@ -1,11 +1,7 @@
-import os
-os.chdir('Desktop/Py_Practice')
 
 import random
-
-
-maleNamesFile = 'namesBoys.txt'
-femaleNamesFile = 'namesGirls.txt'
+maleNamesFile = 'male_names.txt'
+femaleNamesFile = 'female_names.txt'
 
 # reads in data and adds '__' before the name and '**' after the name
 # kind is male or female
