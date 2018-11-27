@@ -1,2 +1,5 @@
 # Generator
-Name generator - :names of specified length using a Markov Chain Algorithm.
+Name generator - Names of specified length using a Markov Chain Algorithm.
+
+
+*A project by Sripaad Srinivasan
